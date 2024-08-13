@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cvderveken
+- 👋 Hi, I’m Cristophe
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning OOP in C++
 - 💞️ I’m looking to collaborate on various projects
